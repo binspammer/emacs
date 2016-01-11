@@ -50,6 +50,7 @@
 (add-to-list 'auto-mode-alist '("\\.ipp$" . c++-mode))
 (add-to-list 'auto-mode-alist '("\\.h$" . c++-mode))
 
+;; (google-set-c_style)
 
 ;;
 ;;(require 'cuda-mode)
